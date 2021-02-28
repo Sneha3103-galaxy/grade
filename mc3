@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+    int i,n;
+    printf("enter i value:");
+    scanf("%d",&n);
+    for(i;i<=n;i++)
+    {
+        printf("01");
+    }
+    return 0;
+}
